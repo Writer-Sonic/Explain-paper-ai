@@ -1,4 +1,4 @@
-# Explain Paper
+# Paper AI
 
 Privacy Policy
 
