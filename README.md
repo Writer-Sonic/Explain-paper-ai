@@ -1,4 +1,4 @@
-# Paper AI
+# PDF AI
 
 Privacy Policy
 
